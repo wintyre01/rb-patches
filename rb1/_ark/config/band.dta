@@ -294,7 +294,7 @@
          (bass generic_tier9)
          (vocals generic_tier9)
          (band generic_tier9)))
-   (genre alternative blues classicrock country emo fusion glam grunge indierock jazz metal new_wave novelty numetal poprock prog punk rock southernrock urban other)
+   (genre alternative blues classicrock country emo fusion glam grunge hiphoprap indierock jazz metal new_wave novelty numetal popdanceelectronic poprock prog punk rbsoulfunk reggaeska rock southernrock urban other)
    (decade the60s the70s the80s the90s the00s the10s the20s)
    (alpha_song)
    (alpha_artist))

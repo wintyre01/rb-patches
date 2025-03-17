@@ -126,7 +126,7 @@
    (venues
       (VENUES))
    (always_allow_player FALSE)
-   (unlock_song_initial_num 10)
+   (unlock_song_initial_num 20)
    (unlock_song_instrument '')
    (enable_bre TRUE)
    (enable_streak TRUE)
@@ -141,7 +141,7 @@
    (skip_matchmaking TRUE)
    (main_mode_screen main_solomode_screen)
    (ready_screen qp_seldiff_solo_screen)
-   (auto_choose_char TRUE)
+   (auto_choose_char FALSE)
    (allow_create_char FALSE)
    (force_player_vocal_gender TRUE)
    (max_players 1)
