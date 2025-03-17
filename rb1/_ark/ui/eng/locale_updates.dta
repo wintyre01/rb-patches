@@ -237,9 +237,17 @@
 (new_wave
    "New Wave")
 (indierock
-   "Indie")
+   "Indie Rock")
 (grunge
    "Grunge")
+(hiphoprap
+   "Hip-Hop/Rap")
+(popdanceelectronic
+   "Pop/Dance/Electronic")
+(rbsoulfunk
+   "R&B/Soul/Funk")
+(reggaeska
+   "Reggae/Ska")
 (export_tip1
    "Download singles, packs and full albums from the Rock Band Music Store!")
 (export_tip2
