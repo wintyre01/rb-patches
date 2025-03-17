@@ -1,8 +1,8 @@
+Original project by MiloHax. These are my personal modifications to the games.
+
 # rb-patches
  
 Lightweight patches to vanilla RB games that add small quality-of-life improvements
-
-**NOTE: The "strum limit" is left *intact* on all of these on XBOX ONLY. The PS3 versions do not have strum limits**
 
 </br>
 
@@ -61,6 +61,10 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - SELECT button restarts current practice section
 - Video Overscan enabled by default
 - Default difficulty is Expert
+- Decensored tracks (with the exception of slurs)
+- 2x pedal as default for applicable tracks
+- Updated to RB4 Charts with some exceptions
+- Strum limit removed
 
 ### RB1:
 
