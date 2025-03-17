@@ -65,6 +65,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - 2x pedal as default for applicable tracks
 - Updated to RB4 Charts with some exceptions
 - Strum limit removed
+- Reconfigured tiers so that they make some more sense for their games (including overall being the sum of all parts divided by however many parts are in the song)
 
 ### RB1:
 
@@ -79,17 +80,43 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 	- Instrument Slots
 - Vocal practice mode
 - Allow one player in Band Quickplay and Band World Tour
+- Reconfigured tiers (making it close to how I have it for Rock Band 2 and 3)
+	- Warmup (1-130)
+	- Apprentice (131-170)
+	- Solid (171-210)
+	- Moderate (211-250)
+	- Skilled (251-290)
+	- Challenging (291-320)
+	- Blistering (321-360)
+	- Nightmare (361-400)
+    - Impossible (401+)
 
 ### TBRB:
 
 - Vsync disabled on RPCS3
 - "Super Speed" (Breakneck Speed) in Practice mode and Drum Trainer
+- Reconfigured tiers (how easy or hard it is for a Beatles track)
+	- Beginner (1-200)
+	- Apprentice (201-230)
+	- Moderate (231-260)
+	- Solid (261-290)
+	- Tricky (291-320)
+	- Challenging (321-350)
+	- Demanding (351+)
 
 ### GDRB:
 
 - Vsync disabled on RPCS3
 - "Super Speed" (Breakneck Speed) in Practice mode and Drum Trainer
 - DIY stems for "Chump" and "Longview" re-done with modern technology [by dirk](https://github.com/dirkNlerxst/dirks-rb3-customs/tree/main/MOGG%20Replacements)
+- Reconfigured tiers (how easy or hard it is for a Green Day track)
+	- Beginner (1-150)
+	- Apprentice (151-180)
+	- Moderate (181-210)
+	- Solid (211-240)
+	- Tricky (241-270)
+	- Challenging (271-300)
+	- Demanding (301+)
 
 ### LRB:
 
@@ -107,3 +134,11 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - Holiday DLC minifigures
 - Vocal practice mode
 - Compatible with the PS3 EU 1.0 debug build via patchcreator
+- Reconfigured tiers (how easy or hard it is for children, aka the intended audience LOL)
+	- First Steps (1-130)
+	- Making Headlines (131-170)
+	- Rising Star (171-200)
+	- Rock Star (201-230)
+	- Super Star (231-260)
+	- Mega Star (261-300)
+	- Out of this World (301+)
