@@ -3660,6 +3660,7 @@
    (game_origin rb1)
    (rating 2)
    (short_version 0)
+   (genre "Pop/Dance/Electronic")
 )
 (brassinpocket
    (version 1)
@@ -5307,6 +5308,7 @@
    (game_origin rb1)
    (rating 2)
    (short_version 0)
+   (genre "Hip-Hop/Rap")
 )
 (saintsoflosangeles
    (version 1)
