@@ -168,7 +168,7 @@
  (song_scroll_speed 2300)
  (bank sfx/tambourine_bank.milo)
  (anim_tempo kTempoFast)
- (preview 25600 57500)
+ (preview 25600 55600)
  (rank
   (drum 210)
   (guitar 140)
@@ -2190,7 +2190,7 @@
  (song_scroll_speed 2300)
  (bank sfx/tambourine_bank.milo)
  (anim_tempo kTempoSlow)
- (preview 106000 147167)
+ (preview 106000 136000)
  (rank
   (drum 110)
   (guitar 225)
@@ -2927,7 +2927,7 @@
  (song_scroll_speed 2300)
  (bank sfx/tambourine_bank.milo)
  (anim_tempo kTempoMedium)
- (preview 28250 66644)
+ (preview 28250 58250)
  (rank
   (drum 115)
   (guitar 155)
@@ -3405,7 +3405,7 @@
  (song_scroll_speed 2300)
  (bank sfx/tambourine_bank.milo)
  (anim_tempo kTempoSlow)
- (preview 81750 119750)
+ (preview 81750 111750)
  (rank
   (drum 100)
   (guitar 190)
@@ -3769,7 +3769,7 @@
  (song_scroll_speed 2300)
  (bank sfx/tambourine_bank.milo)
  (anim_tempo kTempoMedium)
- (preview 40000 70400)
+ (preview 40000 70000)
  (rank
   (drum 140)
   (guitar 150)
