@@ -295,7 +295,7 @@
    "Set the Lag Compensation by pressing Left or Right on the D-Pad, then choose NEXT to confirm the setting."
    #endif)
 (matchmaker_choose_gender
-   "Choose Gender")
+   "Choose Body Type")
 (mics_changed_desc
    #ifdef HX_PS3
    "A microphone has been disconnected from the system! Please test to check that your microphone works before continuing."

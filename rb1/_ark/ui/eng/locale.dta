@@ -321,6 +321,8 @@
 (Lesson2 "Lesson2")
 (Lesson3 "Lesson3")
 (Lesson4 "Lesson4")
+(male "MASCULINE")
+(female "FEMININE")
 (pause_resume "RESUME")
 (pause_restart "RESTART")
 (lefty_flip "LEFTY MODE")
