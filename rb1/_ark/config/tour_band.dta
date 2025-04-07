@@ -67,28 +67,28 @@
             (0 1 7 10)
             (0 0 2 7)
             (0 0 0 2))
-         (lose_penalty -5))
+         (lose_penalty 0))
       (big_club
          (performance
             (2 15 20 25)
             (0 2 15 20)
             (0 0 4 15)
             (0 0 0 4))
-         (lose_penalty -7))
+         (lose_penalty 0))
       (theater
          (performance
             (3 25 36 40)
             (0 3 25 36)
             (0 0 6 25)
             (0 0 0 6))
-         (lose_penalty -12))
+         (lose_penalty 0))
       (arena
          (performance
             (4 30 40 50)
             (0 4 30 40)
             (0 0 8 30)
             (0 0 0 8))
-         (lose_penalty -15)))
+         (lose_penalty 0)))
    (fans
       (15 210)
       (30 900)
@@ -305,12 +305,12 @@
             can_win_item
             tour_bwt_complete})
       (screen tour_band_canwinitem_screen))
-   (first_fans_lost
-      ONEOFF_HINT
-      (cond
-         {{tour performer}
-            have_lost_fans})
-      (screen tour_band_fanslost_screen))
+;   (first_fans_lost
+;      ONEOFF_HINT
+;      (cond
+;         {{tour performer}
+;            have_lost_fans})
+;      (screen tour_band_fanslost_screen))
    (first_buzz_cap
       ONEOFF_HINT
       (cond

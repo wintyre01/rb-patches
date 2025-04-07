@@ -1,6 +1,6 @@
 (names ../ui/eng/locale_charnames.dta)
 (default_difficulty kDifficultyExpert)
-(num_initial_unlock_songs 1)
+(num_initial_unlock_songs 13)
 (max_money 999999999)
 (max_song
  (kDifficultyEasy 60)

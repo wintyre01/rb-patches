@@ -3,7 +3,7 @@
 
 ; Track Speed (1.0: 100%, BNS is 1.5: 150%, if you think this is cheating go outside)
 (track_speed
-   (track_speed 1.0)
+   (track_speed 1.5)
 )
 ; Sync Difficulty Speeds - All tracks run at Expert speed
 (sync_diff_speeds
@@ -11,7 +11,7 @@
 )
 ; Venue FPS - Vanilla: 24, can go up to 60
 (venue_fps
-   (venue_fps 30)
+   (venue_fps 24)
 )
 ; Black Background - Completely black background in-game
 (black_background
