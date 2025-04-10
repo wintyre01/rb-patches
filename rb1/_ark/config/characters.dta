@@ -4668,7 +4668,7 @@
             none
             (colors 0 0)))
       (tattoo))
-; Wii/PS2 Characters
+; Wii and PS2 character recreations
    (drum20
       (gender female)
       (instrument drum)
@@ -5788,7 +5788,7 @@
          (guitar
             none
             (colors 0 0))))
-; Anarchy Club (exclusive to Blood Doll on Wii/PS2 and Get Clean on PS2)
+; Anarchy Club exclusive to Blood Doll on Wii and PS2 and Get Clean on PS2
    (drum24
       (gender female)
       (instrument drum)
