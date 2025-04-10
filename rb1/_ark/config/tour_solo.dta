@@ -1,6 +1,6 @@
 (names ../ui/eng/locale_charnames.dta)
 (default_difficulty kDifficultyExpert)
-(num_initial_unlock_songs 13)
+(num_initial_unlock_songs 1)
 (max_money 999999999)
 (max_song
  (kDifficultyEasy 60)
@@ -1058,7 +1058,12 @@
     (display_song TRUE)
     (reward_per_star 30)
     (songs
-     (unlock 13))
+     (unlock 13)))
+   (unlock14
+    (display_song TRUE)
+    (reward_per_star 30)
+    (songs
+     (unlock 14))
     (outfit
      (guitar
       (male guitar stratocaster03silver)
@@ -1069,23 +1074,3 @@
      (drum
       (male drum silver)
       (female drum silver)))))))
-;   (unlock13
-;    (display_song TRUE)
-;    (reward_per_star 30)
-;    (songs
-;     (unlock 13)))
-;   (unlock14
-;    (display_song TRUE)
-;    (reward_per_star 30)
-;    (songs
-;     (unlock 14))
-;    (outfit
-;     (guitar
-;      (male guitar stratocaster03silver)
-;      (female guitar stratocaster03silver))
-;     (vocals
-;      (male mic mic1_silver)
-;      (female mic mic1_silver))
-;     (drum
-;      (male drum silver)
-;      (female drum silver)))))))

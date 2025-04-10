@@ -126,7 +126,7 @@
    (venues
       (VENUES))
    (always_allow_player FALSE)
-   (unlock_song_initial_num 90)
+   (unlock_song_initial_num 20)
    (unlock_song_instrument '')
    (enable_bre TRUE)
    (enable_streak TRUE)
