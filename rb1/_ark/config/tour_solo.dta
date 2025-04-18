@@ -3,7 +3,7 @@
 (num_initial_unlock_songs 1)
 (max_money 999999999)
 (max_song
- (kDifficultyEasy 60)
+ (kDifficultyEasy 90)
  (kDifficultyMedium 90)
  (kDifficultyHard 90)
  (kDifficultyExpert 90))
