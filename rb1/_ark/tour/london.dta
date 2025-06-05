@@ -18,7 +18,7 @@
    (town 10))
   (reward_per_star 25))
  (localartists
-  (songs nexttoyou shouldistay gimmeshelter suffragettecity ballroomblitz wontgetfooled highwaystar runtothehills)
+  (songs nexttoyou shouldistay gimmeshelter suffragettecity ballroomblitz worstcase wontgetfooled highwaystar runtothehills)
   (fame
    (town 6))
   (reward_per_star 25)))
@@ -37,7 +37,7 @@
    (world 200))
   (reward_per_star 120))
  (ukmara
-  (songs gimmeshelter creep shouldistay suffragettecity nexttoyou paranoid ballroomblitz wontgetfooled highwaystar runtothehills)
+  (songs gimmeshelter creep shouldistay suffragettecity nexttoyou paranoid ballroomblitz worstcase wontgetfooled highwaystar runtothehills)
   (fame
    (town 30)
    (world 200))
