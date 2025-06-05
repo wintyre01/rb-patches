@@ -58,7 +58,7 @@
 )
 (crazyhawk_spikehelm "Pickelhaube")
 (crazyhawk_spikehelm_desc
-   "What was that thing your mother said? \qAlways wear a helmet, regardless of how crazy the hair underneath it.\q"
+   "What was that thing your mother said? \qAlways wear a helmet, regardless of how crazy the hair underneath it\q."
 )
 (cutepigtails_resource "Little Pigtails")
 (cutepigtails_resource_desc
@@ -124,7 +124,7 @@
 (jewfro_resource_desc "On the waves of hair, there is dancin' out there.")
 (ladydreads_resource "Dreads")
 (ladydreads_resource_desc
-   "Sublime hair? For you, it's a \qloc.\q Get it? Ha."
+   "Sublime hair? For you, it's a \qloc\q. Get it? Ha."
 )
 (ladyfeathered_resource "Feathered")
 (ladyfeathered_resource_desc
@@ -662,7 +662,7 @@
 (rings_eyeball_desc "These rings will keep you alert at all times.")
 (rings_jem "Rock Candy")
 (rings_jem_desc
-   "These planet-sized gemstone rings are the ultimate \qsuccessory.\q"
+   "These planet-sized gemstone rings are the ultimate \qsuccessory\q."
 )
 (rings_loopy "Little Loopy")
 (rings_loopy_desc
@@ -828,7 +828,7 @@
 )
 (femaledestroyedchucks_solid "Worn Dornholes")
 (femaledestroyedchucks_solid_desc
-   "Dornholes are the ultimate in \qslouch chic.\q Wear these perfectly pre-worn sneakers anywhere."
+   "Dornholes are the ultimate in \qslouch chic\q. Wear these perfectly pre-worn sneakers anywhere."
 )
 (femaledestroyedchucks_starsandstripes "Stars & Hype")
 (femaledestroyedchucks_starsandstripes_desc
@@ -1074,7 +1074,7 @@
 )
 (destroyedchucks_solid "Worn Dornholes")
 (destroyedchucks_solid_desc
-   "Dornholes are the ultimate in \qslouch chic.\q Wear these perfectly pre-worn sneakers anywhere."
+   "Dornholes are the ultimate in \qslouch chic\q. Wear these perfectly pre-worn sneakers anywhere."
 )
 (destroyedchucks_starsandstripes "Stars & Hype")
 (destroyedchucks_starsandstripes_desc "These colors don't exaggerate.")
@@ -1422,7 +1422,7 @@
 )
 (oilspillleggings_latex "Citlalicue's Legs")
 (oilspillleggings_latex_desc
-   "Citlalicue's name means \qher skirt is stars,\q so are these leggings."
+   "Citlalicue's name means \qher skirt is stars\q, so are these leggings."
 )
 (oringpants_snakeskin "Snake-Os")
 (oringpants_snakeskin_desc
@@ -1644,7 +1644,7 @@
 )
 (sportbikeboots_leather "Hanzo Boots")
 (sportbikeboots_leather_desc
-   "These boots are so ferocious that they're sometimes known as \qDevil Hanzos.\q"
+   "These boots are so ferocious that they're sometimes known as \qDevil Hanzos\q."
 )
 (sportbikeleggings_leather "Hanzo Leathers")
 (sportbikeleggings_leather_desc
@@ -2186,7 +2186,7 @@
 )
 (highheels_solid "9-to-5 Heels")
 (highheels_solid_desc
-   "Working 9-to-5 is SO not for you, you'd rather be on tour. Wear these heels when you tell your boss to \qtake this job and shove it.\q"
+   "Working 9-to-5 is SO not for you, you'd rather be on tour. Wear these heels when you tell your boss to \qtake this job and shove it\q."
 )
 (highstraps_solid "Strap and Spike Heels")
 (highstraps_solid_desc
@@ -2326,7 +2326,7 @@
 )
 (buttonedshirtchestpockets_denim "Chambre Shirt")
 (buttonedshirtchestpockets_denim_desc
-   "Chambre is French for jeans and this shirt will hook you up with the \qOoh-la-la.\q"
+   "Chambre is French for jeans and this shirt will hook you up with the \qOoh-la-la\q."
 )
 (buttonedshirtpatchy_veteran "AF Shirt")
 (buttonedshirtpatchy_veteran_desc

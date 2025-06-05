@@ -29,7 +29,7 @@
 (tour_hint_new_tour_staff_security
    "BODYGUARDS have joined your crew! \nYou can finally stop worrying about crazed fans hiding in birthday cakes! Plus it always looks cool in pictures to be flanked by really giant dudes with crew cuts. \n\nSpeaking of pictures, maybe it's time to hire a PR FIRM? After that last hotel incident, you need some pros around to put a positive spin on your behavior...")
 (tour_hint_new_tour_staff_tourmanager
-   "A PR FIRM has joined your crew! \nIt may not sound glamorous, but you'll be glad you've got 'em around once those photos of you in Vegas turn up... not to mention the \qshark incident.\q \n\nOf course it's just that sort of behavior that can lead to a 'Hall of Fame' award, but only the best are even invited...")
+   "A PR FIRM has joined your crew! \nIt may not sound glamorous, but you'll be glad you've got 'em around once those photos of you in Vegas turn up... not to mention the \qshark incident\q. \n\nOf course it's just that sort of behavior that can lead to a 'Hall of Fame' award, but only the best are even invited...")
 (tour_hint_new_tour_halloffame_complete
    "You have joined the Hall of Fame!! Congratulations on becoming a chapter in the book of music history. You've come a long way... and you'll be remembered forever. Oh man... up-and-coming bands are totally gonna list you as an influence now! That is SO awesome!")
 (tour_hint_new_tour_bwt_complete
