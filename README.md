@@ -1,12 +1,12 @@
-Original project by MiloHax. These are my personal modifications to the games.
+Original project by MiloHax. These are my personal modifications to the games. Downloads are in the release tab.
 
 # rb-patches
  
-Lightweight patches to vanilla RB games that add small quality-of-life improvements
+Lightweight patches to vanilla RB games that add small quality-of-life improvements.
 
 </br>
 
-# 📥 Downloads
+# 📥 Downloads (Original MiloHax versions)
 
 | Xbox 360 | PlayStation 3 |
 | --- | ----------- |
