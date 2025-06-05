@@ -62,7 +62,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - Video Overscan enabled by default
 - Default difficulty is Expert
 - Decensored tracks (with the exception of slurs)
-- 2x pedal as default for applicable tracks
+- 2x pedal options available
 - Updated to RB4 Charts with some exceptions
 - Strum limit removed
 - Reconfigured tiers so that they make some more sense for their games (including overall being the sum of all parts divided by however many parts are in the song)
