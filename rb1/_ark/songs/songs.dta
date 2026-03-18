@@ -4511,50 +4511,50 @@
  (decade the00s)
  (unlockable TRUE)
  (vocal_gender male))
-(worstcase
- (name
-  "Behind Blue Eyes")
- (artist
-  "The Who")
- (context 694206662125)
- (song
-  (name songs/worstcase/worstcase)
-  (tracks
-   ((drum
-     (0 1 2 3 4))
-    (bass
-     (5))
-    (guitar
-     (6 7))
-    (vocals
-     (8 9))))
-  (pans
-   (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
-  (vols
-   (0.0 -1.0 -1.0 -2.5 -2.5 -2.0 -1.5 -1.5 -1.5 -1.5 -2.0 -2.0))
-  (cores
-   (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1))
-  (drum_solo
-   (seqs
-    (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
-  (drum_freestyle
-   (seqs
-    (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (midi_file songs/worstcase/worstcase.mid))
- (song_scroll_speed 2300)
- (bank sfx/tambourine_bank.milo)
- (anim_tempo kTempoMedium)
- (preview 10900 40400)
- (rank
-  (drum 340)
-  (guitar 248)
-  (bass 137)
-  (vocals 187)
-  (band 228))
- (genre classicrock)
- (decade the70s)
- (unlockable TRUE)
- (vocal_gender male))
+;(worstcase
+; (name
+;  "Behind Blue Eyes")
+; (artist
+;  "The Who")
+; (context 694206662125)
+; (song
+;  (name songs/worstcase/worstcase)
+;  (tracks
+;   ((drum
+;     (0 1 2 3 4))
+;    (bass
+;     (5))
+;    (guitar
+;     (6 7))
+;    (vocals
+;     (8 9))))
+;  (pans
+;   (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+;  (vols
+;   (0.0 -1.0 -1.0 -2.5 -2.5 -2.0 -1.5 -1.5 -1.5 -1.5 -2.0 -2.0))
+;  (cores
+;   (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1))
+;  (drum_solo
+;   (seqs
+;    (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+;  (drum_freestyle
+;   (seqs
+;    (kick.cue snare.cue hat.cue ride.cue crash.cue)))
+;  (midi_file songs/worstcase/worstcase.mid))
+; (song_scroll_speed 2300)
+; (bank sfx/tambourine_bank.milo)
+; (anim_tempo kTempoMedium)
+; (preview 10900 40400)
+; (rank
+;  (drum 340)
+;  (guitar 248)
+;  (bass 137)
+;  (vocals 187)
+;  (band 228))
+; (genre classicrock)
+; (decade the70s)
+; (unlockable TRUE)
+; (vocal_gender male))
 (drum_trainer_beats
  (name
   "Drum Trainer - Beats")

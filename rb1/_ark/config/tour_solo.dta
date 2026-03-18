@@ -1058,12 +1058,7 @@
     (display_song TRUE)
     (reward_per_star 30)
     (songs
-     (unlock 13)))
-   (unlock14
-    (display_song TRUE)
-    (reward_per_star 30)
-    (songs
-     (unlock 14))
+     (unlock 13))
     (outfit
      (guitar
       (male guitar stratocaster03silver)
