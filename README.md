@@ -117,6 +117,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 	- Tricky (241-270)
 	- Challenging (271-300)
 	- Demanding (301+)
+- Main Menu is 60FPS on Xbox 360 (previously PS3 only)
 
 ### LRB:
 
@@ -129,6 +130,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - Songs of any rating can be played
 - UGC songs can be played (RBN, customs)
 - Any region DLC can be loaded
+- 
 - All prefabs available
 - All Rock Shop items unlocked
 - Holiday DLC minifigures
