@@ -6,7 +6,7 @@
 (instruments
    (chamberlin midiinstruments/chamberlin.milo))
 (crowd_reactions TRUE)
-(karaoke_db_offset -6)
+(karaoke_db_offset -96)
 (realistic_mode_venues shea sullivan)
 (realistic_mode_db_offset -5)
 (slider -96 -5 -4.5 -4 -3.5 -3 -2.5 -2 -1.5 -1 -0.5 0)

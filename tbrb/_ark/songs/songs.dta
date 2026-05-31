@@ -32,7 +32,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 5596 20410)
@@ -86,7 +86,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 68638 97477)
@@ -140,7 +140,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 17769 40960)
@@ -199,8 +199,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -12.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 21733 46068)
@@ -260,7 +260,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 49737 78483)
@@ -314,7 +314,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 29860 57724)
@@ -368,7 +368,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -418,7 +418,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -468,7 +468,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -518,7 +518,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -568,7 +568,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -618,7 +618,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -668,7 +668,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 6400 19200)
@@ -718,7 +718,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 52012 81455)
@@ -781,7 +781,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 17371 47299)
@@ -832,7 +832,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 84149 111409)
@@ -891,7 +891,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2100)
  (preview 7012 35480)
@@ -945,7 +945,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 16776 45278)
@@ -999,7 +999,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 5596 33065)
@@ -1050,7 +1050,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 45812 75812)
@@ -1104,7 +1104,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 7012 37012)
@@ -1158,7 +1158,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 30638 60046)
@@ -1211,8 +1211,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -12.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 131842 160867)
@@ -1275,7 +1275,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 6083 35567)
@@ -1335,7 +1335,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 21954 43328)
@@ -1396,7 +1396,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 60650 89907)
@@ -1459,8 +1459,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -18.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 38777 63436)
@@ -1523,7 +1523,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 116053 144846)
@@ -1583,7 +1583,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 41366 66780)
@@ -1649,7 +1649,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 58560 83127)
@@ -1700,7 +1700,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 8544 30720)
@@ -1754,7 +1754,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 9630 31579)
@@ -1808,7 +1808,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 9601 35201)
@@ -1862,7 +1862,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 22755 52477)
@@ -1913,7 +1913,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0)
   (mute_win_cues))
  (song_scroll_speed 2300)
@@ -1968,7 +1968,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 12910 39845)
@@ -2022,7 +2022,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 12666 37337)
@@ -2076,7 +2076,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 64458 90743)
@@ -2129,8 +2129,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -14.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 159422 189335)
@@ -2190,8 +2190,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -16.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 46910 76022)
@@ -2253,7 +2253,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 24868 54241)
@@ -2303,8 +2303,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -12.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 5950 35851)
@@ -2360,7 +2360,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 16114 41610)
@@ -2423,7 +2423,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -5.0))
  (song_scroll_speed 2300)
  (preview 81734 111374)
@@ -2489,7 +2489,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -1.0))
  (song_scroll_speed 2300)
  (preview 53765 81158)
@@ -2543,7 +2543,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 14634 43514)
@@ -2600,7 +2600,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 17670 42167)
@@ -2653,8 +2653,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -12.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 23219 52198)
@@ -2715,7 +2715,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level 0.0))
  (song_scroll_speed 2300)
  (preview 10123 39543)
@@ -2769,7 +2769,7 @@
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
   (mute_volume -96.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 23599 53591)
@@ -2827,8 +2827,8 @@
   (drum_freestyle
    (seqs
     (kick.cue snare.cue hat.cue ride.cue crash.cue)))
-  (mute_volume -12.0)
-  (mute_volume_vocals -12.0)
+  (mute_volume -96.0)
+  (mute_volume_vocals -96.0)
   (sfx_level -3.0))
  (song_scroll_speed 2300)
  (preview 42028 58792)
