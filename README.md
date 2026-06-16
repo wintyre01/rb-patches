@@ -11,6 +11,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 | Xbox 360 | PlayStation 3 |
 | --- | ----------- |
 | 📥 [RB1 Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/RB1-Patch-Xbox.zip) | 📥 [RB1 Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/RB1-Patch-PS3.zip)  |
+| 📥 [RB2 Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/RB2-Patch-Xbox.zip) | 📥 [RB2 Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/RB2-Patch-PS3.zip)  |
 | 📥 [TBRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/TBRB-Patch-Xbox.zip) | 📥 [TBRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/TBRB-Patch-PS3.zip) 📥 [PS3 Disc Patch (Required)](https://github.com/hmxmilohax/rb-patches/raw/main/tbrb/dependencies/TBRB-PS3DiscPatch.zip)* |
 | 📥 [GDRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/GDRB-Patch-Xbox.zip) | 📥 [GDRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/GDRB-Patch-PS3.zip)** |
 | 📥 [LRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/LRB-Patch-Xbox.zip) | 📥 [LRB Patch](https://nightly.link/hmxmilohax/rb-patches/workflows/build/main/LRB-Patch-PS3.zip) |
@@ -19,9 +20,15 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 
 > These install exactly the same as the *Deluxe* mods, as usual make sure you back up each game's `default.xex`
 >
-> *Due to technical reasons, TBRB on PS3 requires a separate "Disc Patch", extract that and overwrite the files where your base game is installed
+> *If you already had RB2DX installed on PS3/RPCS3, you need to delete `dev_hdd0/game/BLUS30147/PARAM.SFO` or else it will tell you that you have a newer version installed
 >
-> **For GDRB on PS3, extract and overwrite the files where your base game is installed 
+> **Due to technical reasons, TBRB on PS3 requires a separate "Disc Patch", extract that and overwrite the files where your base game is installed
+>
+> ***For GDRB on PS3, extract and overwrite the files where your base game is installed 
+
+> Please keep in mind this project does not aim to add new features or be "ultimate" or "definitive", but rather to enhance the vanilla experience
+>
+> If you're looking for a more feature-complete option for RB2, check out [Rock Band 2 Deluxe](https://rb2dx.milohax.org/) instead
 
 </br>
 
@@ -31,6 +38,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 | --- | ----------- |
 | 📥 [All Games](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_all.zip) | 📥 [All Games](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_all.zip) |
 | 📥 [RB1](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_rb1.zip) | 📥 [RB1](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_rb1.zip) |
+| 📥 [RB2](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_rb2.zip) | 📥 [RB2](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_rb2.zip) |
 | 📥 [TBRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_tbrb.zip) | 📥 [TBRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_tbrb.zip) |
 | 📥 [GDRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_gdrb.zip) | 📥 [GDRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_gdrb.zip) |
 | 📥 [LRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/recommended_lrb.zip) | 📥 [LRB](https://github.com/hmxmilohax/rb-patches/raw/main/_custom_configs/minimum_lrb.zip) |
@@ -91,6 +99,31 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 	- Nightmare (361-400)
     - Impossible (401+)
 
+### RB2:
+
+> Please keep in mind this project does not aim to add new features or be "ultimate" or "definitive", but rather to enhance the vanilla experience.
+>
+> If you're looking for a better option for the casual fan, check out [Rock Band 2 Deluxe](https://rb2dx.milohax.org/) instead.
+- Adjustable options via external `config.dta` file:
+	- Most modifiers
+	- Track Speed
+	- Sync Difficulty Speeds
+	- Venue FPS
+	- Vsync
+	- Instrument Slots
+- Music Video venues are always 60FPS
+- Vocal practice mode
+- Expanded career from [Rock Band 2 Deluxe](https://rb2dx.milohax.org/), and some of its additional venues
+- Leaving mid-gig does not make you lose fans
+- All prefabs available
+- No Fail Mode can be used without penalty
+- Unlock All Songs can be used online
+- Main Menu is 60FPS on Xbox 360 (previously PS3 only)
+- Menus on PS3 use the full vsync rate everywhere
+- DLC loading doesn't interrupt menu usage
+- Loading tips and other locale from future games
+- Lasers in the Orion Lounge venue a la RB1
+
 ### TBRB:
 
 - Vsync disabled on RPCS3
@@ -130,7 +163,6 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 - Songs of any rating can be played
 - UGC songs can be played (RBN, customs)
 - Any region DLC can be loaded
-- 
 - All prefabs available
 - All Rock Shop items unlocked
 - Holiday DLC minifigures
