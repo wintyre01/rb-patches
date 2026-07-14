@@ -1,5 +1,5 @@
 (names ../ui/eng/locale_charnames.dta)
-(default_difficulty kDifficultyExpert)
+(default_difficulty kDifficultyExpert)  ; dx - default difficulty is expert
 (num_initial_unlock_songs 1)
 (max_money 999999999)
 (max_song

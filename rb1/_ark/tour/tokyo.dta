@@ -5,10 +5,10 @@
          highwaystar)
       (display_song TRUE)
       (item tour_staff_tourmanager)
-      (fame
-         (world 100))
+      (fame (world 100))
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKPLUS)
+      BWT_BUZZ_MEDIUMBLOCKPLUS
+   )
    (tiermara
       (songs
          wontgetfooled
@@ -19,16 +19,17 @@
          runtothehills)
       (reward_per_star 120)
       (item tour_staff_tourmanager)
-      (fame
-         (world 160))
-      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS)
+      (fame (world 160))
+      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS
+   )
    (eightiesmara
       (songs orangecrush wanteddeadoralive shouldistay waveofmutilation epic tomsawyer runtothehills)
       (fame
          (world 200))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS)
+      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS
+   )
    (guitarlegend
       (songs
          highwaystar
@@ -40,4 +41,6 @@
          (world 300))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS))
+      BWT_BUZZ_MEDIUMBLOCKMEGAPLUS
+   )
+)

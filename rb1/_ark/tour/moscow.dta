@@ -4,23 +4,24 @@
       (songs
          greengrass)
       (display_song TRUE)
-      (fame
-         (world 100))
+      (fame (world 100))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_EASYBLOCK)
+      BWT_BUZZ_EASYBLOCK
+   )
    (drumlegend
       (songs
          (drum -5)
          (drum -4)
          (drum -3)
          (drum -2)
-         (drum -1))
-      (fame
-         (world 300))
+         (drum -1)
+      )
+      (fame (world 300))
       (reward_per_star 120)
       (item tour_staff_tourmanager)
-      BWT_BUZZ_MEDIUMBLOCKPLUS)
+      BWT_BUZZ_MEDIUMBLOCKPLUS
+   )
    (halloffame
       (songs dontfearthereaper cherubrock entersandman foreplaylongtime wontgetfooled tomsawyer highwaystar runtothehills)
       (fame
@@ -28,7 +29,8 @@
       (reward_per_star 120)
       (award_item tour_halloffame_complete)
       (item tour_staff_tourmanager)
-      BWT_BUZZ_MEDIUMBLOCKPLUS)
+      BWT_BUZZ_MEDIUMBLOCKPLUS
+   )
    (allmara
       (songs
          inbloom
@@ -56,7 +58,6 @@
          daylatedollarshort
          epic
          pleasure
-	 worstcase
          blackholesun
          mainoffender
          imsosick
@@ -96,4 +97,6 @@
       (award_item tour_bwt_complete)
       (item tour_halloffame_complete)
       (warning_screen tour_band_marathon_screen)
-      BWT_BUZZ_MEDIUMBLOCKPLUS))
+      BWT_BUZZ_MEDIUMBLOCKPLUS
+   )
+)

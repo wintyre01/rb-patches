@@ -4,18 +4,18 @@
       (songs
          wontgetfooled)
       (display_song TRUE)
-      (fame
-         (world 100))
+      (fame (world 100))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_EASYBLOCK)
+      BWT_BUZZ_EASYBLOCK
+   )
    (productionmara
       (songs 29fingers seven outside daylatedollarshort)
-      (fame
-         (world 60))
+      (fame (world 60))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKMINORPLUS)
+      BWT_BUZZ_MEDIUMBLOCKMINORPLUS
+   )
    (basslegend
       (songs
          highwaystar
@@ -27,11 +27,14 @@
          (world 300))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKMINORPLUS)
+      BWT_BUZZ_MEDIUMBLOCKMINORPLUS
+   )
    (ninetiesmara
       (songs ithinkimparanoid inbloom sayitaintso learntofly blackholesun creep celebrityskin vasoline cherubrock sabotage entersandman)
       (fame
          (world 200))
       (item tour_staff_tourmanager)
       (reward_per_star 120)
-      BWT_BUZZ_MEDIUMBLOCKMINORPLUS))
+      BWT_BUZZ_MEDIUMBLOCKMINORPLUS
+   )
+)

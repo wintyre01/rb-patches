@@ -87,6 +87,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 	- Vsync
 	- Instrument Slots
 - Vocal practice mode
+- Multiplier goes up in practice mode
 - Allow one player in Band Quickplay and Band World Tour
 - Reconfigured tiers (making it close to how I have it for Rock Band 2 and 3)
 	- Warmup (1-130)
@@ -109,9 +110,10 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 	- Track Speed
 	- Sync Difficulty Speeds
 	- Venue FPS
+	- Music Video Venue FPS (default 60)
 	- Vsync
 	- Instrument Slots
-- Music Video venues are always 60FPS
+- More stable with a large song lbrary than vanilla Rock Band 2
 - Vocal practice mode
 - Expanded career from [Rock Band 2 Deluxe](https://rb2dx.milohax.org/), and some of its additional venues
 - Leaving mid-gig does not make you lose fans
@@ -127,6 +129,8 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 ### TBRB:
 
 - Vsync disabled on RPCS3
+- Dreamscapes are 60FPS always
+- All venues are 60FPS on RPCS3
 - "Super Speed" (Breakneck Speed) in Practice mode and Drum Trainer
 - Reconfigured tiers (how easy or hard it is for a Beatles track)
 	- Beginner (1-200)
@@ -140,6 +144,7 @@ Lightweight patches to vanilla RB games that add small quality-of-life improveme
 ### GDRB:
 
 - Vsync disabled on RPCS3
+- 60FPS venues on RPCS3
 - "Super Speed" (Breakneck Speed) in Practice mode and Drum Trainer
 - DIY stems for "Chump" and "Longview" re-done with modern technology [by dirk](https://github.com/dirkNlerxst/dirks-rb3-customs/tree/main/MOGG%20Replacements)
 - Reconfigured tiers (how easy or hard it is for a Green Day track)
