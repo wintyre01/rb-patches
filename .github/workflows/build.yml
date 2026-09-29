@@ -116,9 +116,8 @@ jobs:
         run: |
           cd rb2/
           $sha_short="$(git rev-parse --short HEAD)".ToUpper()
-          $content="UP0006-BLUS30147_00-RB2PATCHH"
-          $packageversion="1.01"
-          dependencies/windows/make_package_npdrm_retail.exe --k-licensee 0x00000000000000000000000000000000 --drm-type Local --package-version $packageversion --content-type GameData --content-id ($content + $sha_short) dependencies/package.conf out/ps3
+          $content="RB2PATCHH"
+          dependencies/windows/RB2DXBuildPkgPS3.exe out/ps3 ($content + $sha_short) .
       - name: Upload result
         uses: actions/upload-artifact@v4
         with:
